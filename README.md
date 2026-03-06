@@ -1,6 +1,6 @@
 # 💬 Chatty - Modern Fullstack Chat Application
 
-![Chatty Dashboard Banner](frontend/public/banner.png)
+![Chatty Dashboard Banner](frontend/public/banner1.png)
 
 > _A sleek, glassmorphic real-time chat dashboard delivering a premium communication experience._
 
