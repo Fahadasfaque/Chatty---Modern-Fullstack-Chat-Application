@@ -23,7 +23,7 @@ const MessageInput = () => {
     reader.readAsDataURL(file);
   };
 
-  const removeImage = () => {
+  const removeImage = () => {  
     setImagePreview(null);
     if (fileInputRef.current) fileInputRef.current.value = "";
   };
@@ -79,7 +79,7 @@ const MessageInput = () => {
             onChange={(e) => setText(e.target.value)}
           />
           <input
-            type="file"
+            type="file" 
             accept="image/*"
             className="hidden"
             ref={fileInputRef}
